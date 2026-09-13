@@ -33,3 +33,8 @@ Order Tracking
 - Customers can view order status.
 - Order status is updated as the order progresses.
 final final final
+
+*************************************************
+
+Customer Notifications
+- Customers can receive order status notifications.
