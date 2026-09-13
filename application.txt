@@ -14,3 +14,10 @@ Product Search
 - Products can be searched by name.
 - Search results are displayed.
 
+******************************************
+
+Wishlist
+- Products can be added to a wishlist.
+- Wishlist items can be viewed separately.
+
+
