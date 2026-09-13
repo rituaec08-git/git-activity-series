@@ -15,6 +15,7 @@ Product Search
 - Search results are displayed.
 
 ******************************************
+
 Pricing
 - Product prices can be updated.
 - Updated prices are reflected in the product catalog.
@@ -22,10 +23,13 @@ Pricing
 Wishlist
 - Products can be added to a wishlist.
 - Wishlist items can be viewed separately.
-
 *************************************************
 
 Customer Support
 - Customers can view support information.
 - Support requests can be submitted.
+************************************************
+Order Tracking
+- Customers can view order status.
+- Order status is updated as the order progresses.
 
