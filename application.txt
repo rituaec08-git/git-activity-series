@@ -1,30 +1,23 @@
 E-Commerce Application
 
-
 Product Catalog
-
 - Product listing is available.
 - Product name and price are displayed.
 - Product category is displayed.
 - Product availability status is displayed.
-
 ******************************************
-
 Product Search
 - Products can be searched by name.
 - Search results are displayed.
-
 ******************************************
-
 Pricing
 - Product prices can be updated.
 - Updated prices are reflected in the product catalog.
-
+************************************************
 Wishlist
 - Products can be added to a wishlist.
 - Wishlist items can be viewed separately.
 *************************************************
-
 Customer Support
 - Customers can view support information.
 - Support requests can be submitted.
@@ -33,3 +26,4 @@ Order Tracking
 - Customers can view order status.
 - Order status is updated as the order progresses.
 final final final
+*************************************************
