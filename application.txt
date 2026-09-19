@@ -27,3 +27,9 @@ Order Tracking
 - Order status is updated as the order progresses.
 final final final
 *************************************************
+Payment Processing
+- Customers can complete payments securely.
+- Payment status is recorded for each order.
+***********************************************
+
+
